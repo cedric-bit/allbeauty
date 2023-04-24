@@ -1,0 +1,10 @@
+/*
+Custom Css
+*/
+.product-image {
+    background-image: url("/assets/img/fem.png");
+    background-size: cover;
+    background-position: center center;
+    width: 10%;
+    height: 20px; /* ou toute autre hauteur que vous souhaitez */
+}
